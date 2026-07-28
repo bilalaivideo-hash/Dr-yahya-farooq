@@ -1,0 +1,15 @@
+# Ismaill Eye & General Clinic
+# Replace DOMAIN-TO-BE-CONFIRMED.pk before launch.
+
+User-agent: *
+Allow: /
+Disallow: /404.html
+Disallow: /_tools/
+
+# Courtesy crawl-delay for a small origin
+User-agent: AhrefsBot
+Crawl-delay: 10
+User-agent: SemrushBot
+Crawl-delay: 10
+
+Sitemap: https://DOMAIN-TO-BE-CONFIRMED.pk/sitemap.xml
