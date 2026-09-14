@@ -1,0 +1,538 @@
+{
+  "ur": {
+    "skip": "مرکزی مواد پر جائیں",
+    "brandName": "اسماعیل آئی اینڈ جنرل کلینک",
+    "emergencyText": "آنکھ کی چوٹ یا اچانک نظر کا چلا جانا؟ فوراً رابطہ کریں:",
+    "nav": {
+      "home": "ہوم",
+      "about": "ہمارے بارے میں",
+      "doctors": "ڈاکٹرز",
+      "services": "خدمات",
+      "gallery": "نتائج",
+      "schedule": "اوقات",
+      "appointment": "اپائنٹمنٹ",
+      "contact": "رابطہ"
+    },
+    "heroEyebrow": "ویہاڑی · جی بلاک",
+    "heroTitle": "آنکھوں کی بہترین دیکھ بھال، آپ کے اپنے شہر ویہاڑی میں",
+    "heroLead": "ڈاکٹر یحییٰ اور ڈاکٹر عمر کی زیرِ نگرانی، جدید سہولیات کے ساتھ آنکھوں کا مکمل معائنہ، موتیا کا آپریشن اور جنرل او پی ڈی۔",
+    "ctaWhatsApp": "واٹس ایپ پر وقت لیں",
+    "ctaBook": "اپائنٹمنٹ بک کریں",
+    "ctaCall": "فون کریں",
+    "ctaAsk": "واٹس ایپ پر پوچھیں",
+    "ctaDetails": "تفصیل",
+    "heroNote": "واٹس ایپ پر جواب عام طور پر کلینک کے اوقات میں ملتا ہے",
+    "visionBefore": "موتیا کے ساتھ",
+    "visionAfter": "علاج کے بعد",
+    "aboutEyebrow": "ہمارے بارے میں",
+    "aboutTitle": "ویہاڑی کے لوگوں کے لیے، ویہاڑی میں",
+    "aboutLead": "اسماعیل آئی اینڈ جنرل کلینک میں ہماری کوشش ہے کہ ہر مریض کو وہی توجہ ملے جو ہم اپنے گھر والوں کے لیے چاہیں گے۔ ہر آنکھ کا تفصیلی معائنہ کیا جاتا ہے تاکہ تشخیص میں کوئی کمی نہ رہ جائے۔",
+    "about": [
+      {
+        "t": "آپ کی بات، آپ کی نگہداشت",
+        "d": "اپنی علامات اور سابقہ علاج کے بارے میں بتائیں۔ مشاورت میں آپ کی تفصیلات اور آنکھوں کے معائنے کو اہمیت دی جاتی ہے۔"
+      },
+      {
+        "t": "آنکھوں کی دیکھ بھال اور جنرل او پی ڈی",
+        "d": "جی بلاک، ویہاڑی میں آنکھوں کا معائنہ، نظر کی جانچ اور عام طبی مشاورت ایک ہی کلینک میں۔"
+      },
+      {
+        "t": "اپنے سفر کی پہلے منصوبہ بندی کریں",
+        "d": "بورے والا، میلسی، لڈن یا کرم پور سے آ رہے ہیں؟ روانگی سے پہلے کلینک کے اوقات اور ڈاکٹر کی دستیابی کی تصدیق کر لیں۔"
+      }
+    ],
+    "docEyebrow": "ہماری ٹیم",
+    "docTitle": "آپ کا علاج کون کرے گا",
+    "doctors": [
+      {
+        "n": "ڈاکٹر یحییٰ",
+        "b": "ڈاکٹر یحییٰ آنکھوں کے ماہر ہیں اور موتیا کے جدید فیکو آپریشن میں خاص مہارت رکھتے ہیں۔ ان کا اصول ہے کہ ہر مریض کی آنکھ کا مکمل معائنہ کیے بغیر کوئی فیصلہ نہ کیا جائے۔",
+        "tags": [
+          "موتیا کا آپریشن (فیکو)",
+          "کالا موتیا",
+          "پردے کی بیماریاں"
+        ],
+        "d": "او پی ڈی: پیر تا ہفتہ · آپریشن: منگل اور جمعرات"
+      },
+      {
+        "n": "ڈاکٹر عمر",
+        "b": "ڈاکٹر عمر جنرل او پی ڈی اور آنکھوں کے ابتدائی معائنے کی ذمہ داری سنبھالتے ہیں، اور مریضوں کو آسان زبان میں ان کی بیماری سمجھاتے ہیں۔",
+        "tags": [
+          "جنرل او پی ڈی",
+          "نظر کا ٹیسٹ",
+          "ابتدائی معائنہ"
+        ],
+        "d": "او پی ڈی: پیر تا ہفتہ"
+      }
+    ],
+    "servEyebrow": "خدمات",
+    "servTitle": "ہم کن بیماریوں کا علاج کرتے ہیں",
+    "servLead": "کسی بھی خدمت کے بارے میں تفصیل یا خرچ معلوم کرنے کے لیے واٹس ایپ پر پیغام بھیجیں۔",
+    "services": [
+      {
+        "t": "موتیا کا آپریشن (فیکو)",
+        "s": "Cataract Surgery",
+        "d": "موتیا اور فیکو آپریشن کے لیے مشاورت۔ معائنے کے بعد مناسب علاج اور لینز کے انتخاب پر رہنمائی کی جاتی ہے۔"
+      },
+      {
+        "t": "آنکھوں کا مکمل معائنہ",
+        "s": "Complete Eye Exam",
+        "d": "نظر، پردہ اور آنکھ کے دباؤ کی مکمل جانچ ایک ہی نشست میں۔"
+      },
+      {
+        "t": "نظر کا ٹیسٹ اور چشمے کا نمبر",
+        "s": "Refraction & Glasses",
+        "d": "بچوں اور بڑوں کے لیے درست نمبر اور چشمے کا مشورہ۔"
+      },
+      {
+        "t": "ذیابیطس اور آنکھیں",
+        "s": "Diabetic Retinopathy",
+        "d": "ذیابیطس کے مریضوں کے پردۂ چشم کا معائنہ اور نتائج کے مطابق اگلے معائنے کے لیے رہنمائی۔"
+      },
+      {
+        "t": "کالا موتیا (گلوکوما)",
+        "s": "Glaucoma",
+        "d": "آنکھ کے دباؤ کی جانچ، کالے موتیے کا معائنہ اور علاج و مسلسل نگرانی کے لیے مشاورت۔"
+      },
+      {
+        "t": "بچوں کی آنکھوں کا علاج",
+        "s": "Pediatric Eye Care",
+        "d": "بھینگاپن، سست آنکھ اور بچوں کی نظر کے مسائل کا علاج۔"
+      },
+      {
+        "t": "ناخونہ / پٹیریجیم آپریشن",
+        "s": "Pterygium Surgery",
+        "d": "دھوپ اور مٹی سے ہونے والے ناخونے کا آپریشن اور بچاؤ کا مشورہ۔"
+      },
+      {
+        "t": "آنکھ کی چوٹ اور ایمرجنسی",
+        "s": "Eye Injury & Emergency",
+        "d": "کلینک کے اوقات میں آنکھ کی چوٹ کا معائنہ۔ اچانک بینائی ختم ہونے یا سنگین چوٹ پر فوری ایمرجنسی طبی مدد حاصل کریں۔"
+      },
+      {
+        "t": "جنرل او پی ڈی",
+        "s": "General OPD",
+        "d": "عام امراض کا معائنہ اور علاج بھی اسی کلینک میں دستیاب ہے۔"
+      }
+    ],
+    "galEyebrow": "نتائج",
+    "galTitle": "علاج سے پہلے اور بعد",
+    "galLead": "لکیر کو دائیں بائیں کھینچ کر فرق دیکھیں۔",
+    "galAll": "تمام",
+    "galDisclaimer": "نتائج ہر مریض کے لیے مختلف ہو سکتے ہیں۔ کسی بھی علاج کا فیصلہ معائنے کے بعد ہی کیا جاتا ہے۔",
+    "galEmpty": "اس زمرے کی تصاویر جلد شامل کی جائیں گی۔",
+    "galRecovery": "بحالی کا وقت",
+    "galCats": {
+      "cataract": "موتیا",
+      "pterygium": "ناخونہ",
+      "squint": "بھینگاپن"
+    },
+    "schEyebrow": "اوقاتِ کار",
+    "schTitle": "آنے سے پہلے یہ ضرور پڑھیں",
+    "schLead": "تاکہ آپ کا وقت ضائع نہ ہو اور آپ کو انتظار کا صحیح اندازہ ہو۔",
+    "hoursHead": [
+      "دن",
+      "او پی ڈی",
+      "نوٹ"
+    ],
+    "hours": [
+      [
+        "پیر",
+        "صبح 9 تا 2 · شام 5 تا 9",
+        "عام او پی ڈی"
+      ],
+      [
+        "منگل",
+        "صبح 9 تا 2",
+        "آپریشن کا دن"
+      ],
+      [
+        "بدھ",
+        "صبح 9 تا 2 · شام 5 تا 9",
+        "عام او پی ڈی"
+      ],
+      [
+        "جمعرات",
+        "صبح 9 تا 2",
+        "آپریشن کا دن"
+      ],
+      [
+        "جمعہ",
+        "صبح 9 تا 12",
+        "نمازِ جمعہ کے باعث مختصر"
+      ],
+      [
+        "ہفتہ",
+        "صبح 9 تا 2 · شام 5 تا 9",
+        "عام او پی ڈی"
+      ],
+      [
+        "اتوار",
+        "بند",
+        "معمول کی او پی ڈی نہیں"
+      ]
+    ],
+    "queueNote": "ہر مریض کی آنکھوں کا مکمل اور تسلی بخش معائنہ کیا جاتا ہے، اس لیے مصروف اوقات میں کچھ انتظار کرنا پڑ سکتا ہے۔ ٹوکن نمبر آمد کی ترتیب سے دیا جاتا ہے۔ کم رش کے لیے صبح جلدی تشریف لائیں۔",
+    "prepTitle": "آپریشن سے پہلے کی ہدایات",
+    "prep": [
+      "آپریشن سے ایک دن پہلے کلینک سے فون پر وقت کی تصدیق ضرور کر لیں۔",
+      "اپنے ساتھ ایک بالغ فرد ضرور لائیں — آپریشن کے بعد خود گاڑی یا موٹر سائیکل نہ چلائیں۔",
+      "پچھلی تمام رپورٹس، شوگر اور بلڈ پریشر کی دوائیں اور چشمہ ساتھ لائیں۔",
+      "طے شدہ آپریشن سے پہلے نئی سُرخی، رطوبت یا علامات میں تبدیلی کے بارے میں اپنے معالج کو بتائیں۔",
+      "چہرے پر میک اپ، سرمہ یا تیل لگا کر نہ آئیں۔",
+      "ڈاکٹر کی ہدایت کے مطابق ناشتہ کریں یا خالی پیٹ آئیں — عملے سے پہلے پوچھ لیں۔"
+    ],
+    "revEyebrow": "مریضوں کی رائے",
+    "revTitle": "گوگل پر ہمارے مریضوں نے کیا کہا",
+    "revCta": "گوگل پر اپنی رائے دیں",
+    "apptEyebrow": "اپائنٹمنٹ",
+    "apptTitle": "وقت لینے کے دو آسان طریقے",
+    "apptLead": "جو آپ کو آسان لگے وہ منتخب کریں۔ دونوں صورتوں میں کلینک آپ سے فون پر رابطہ کر کے وقت پکا کرے گا۔",
+    "fastTitle": "سب سے تیز طریقہ — واٹس ایپ",
+    "fastText": "صرف ایک پیغام بھیجیں۔ فارم بھرنے کی ضرورت نہیں۔ کلینک کا عملہ آپ کو دستیاب وقت بتا دے گا۔",
+    "formTitle": "اپائنٹمنٹ فارم",
+    "lblName": "مریض کا نام",
+    "lblPhone": "موبائل نمبر",
+    "lblAge": "عمر",
+    "lblCity": "شہر / علاقہ",
+    "lblDoctor": "کون سے ڈاکٹر",
+    "lblService": "کس چیز کے لیے",
+    "lblDate": "مطلوبہ دن",
+    "lblSlot": "مطلوبہ وقت",
+    "lblProblem": "مسئلہ مختصر بیان کریں",
+    "errName": "مہربانی فرما کر مریض کا نام لکھیں",
+    "errPhone": "درست موبائل نمبر لکھیں، مثلاً 03001234567",
+    "optAny": "کوئی بھی",
+    "optSelect": "منتخب کریں",
+    "slots": [
+      "صبح (9 تا 12)",
+      "دوپہر (12 تا 2)",
+      "شام (5 تا 9)"
+    ],
+    "formSubmit": "درخواست بھیجیں",
+    "formNote": "نوٹ: یہ صرف وقت لینے کی درخواست ہے، پکا اپائنٹمنٹ نہیں۔ کلینک فون پر رابطہ کر کے آپ کا وقت پکا کرے گا۔",
+    "successTitle": "آپ کی درخواست موصول ہو گئی ہے",
+    "successText": "کلینک جلد آپ سے رابطہ کرے گا۔ تصدیق کے لیے واٹس ایپ کھل رہا ہے — پیغام بھیج دیں تاکہ آپ کی درخواست ریکارڈ ہو جائے۔",
+    "successCta": "واٹس ایپ پر بھیجیں",
+    "faqEyebrow": "عام سوالات",
+    "faqTitle": "مریض اکثر یہ پوچھتے ہیں",
+    "faq": [
+      {
+        "q": "اپائنٹمنٹ کی درخواست کیسے دوں؟",
+        "a": "فارم میں ڈاکٹر اور اپنی پسند کی تاریخ منتخب کریں۔ فعال ویب سائٹ پر آپ واٹس ایپ کے ذریعے درخواست بھیج سکیں گے۔ کلینک کے جواب کے بعد ہی وقت کی تصدیق ہوتی ہے۔"
+      },
+      {
+        "q": "کیا بغیر اپائنٹمنٹ آ سکتے ہیں؟",
+        "a": "او پی ڈی کے اوقات میں واک اِن معائنہ درج ہے۔ سفر سے پہلے ڈاکٹر کی دستیابی کی تصدیق کر لیں۔ انتظار کا دورانیہ مریضوں کی تعداد پر منحصر ہے۔"
+      },
+      {
+        "q": "موتیا کے آپریشن کا خرچ کتنا ہے؟",
+        "a": "آنکھ کے معائنے، مجوزہ طریقۂ علاج اور لینز کے انتخاب پر مشاورت کے بعد خرچ کا اندازہ دیا جاتا ہے۔ کلینک سے پوچھیں کہ بتائے گئے خرچ میں کون سی سہولیات شامل ہیں۔"
+      },
+      {
+        "q": "معائنے کے لیے کیا ساتھ لاؤں؟",
+        "a": "اپنا چشمہ، پچھلی رپورٹس اور استعمال ہونے والی دواؤں کی فہرست ساتھ لائیں۔ کسی طے شدہ آپریشن کے لیے اپنے معالج کی دی گئی ہدایات پر عمل کریں۔"
+      },
+      {
+        "q": "کیا ویہاڑی سے باہر کے مریض بھی آ سکتے ہیں؟",
+        "a": "بورے والا، میلسی، لڈن، کرم پور اور قریبی علاقوں سے مریض جی بلاک کلینک آ سکتے ہیں۔ روانگی سے پہلے اوقات کی تصدیق کر لیں۔"
+      },
+      {
+        "q": "اسماعیل آئی اینڈ جنرل کلینک کہاں ہے؟",
+        "a": "فراہم کردہ پتہ: 167/1، جی بلاک، ویہاڑی 61100، پنجاب، پاکستان۔ گوگل میپس پر کلینک تلاش کرنے کے لیے راستہ دیکھیں کا بٹن استعمال کریں۔"
+      }
+    ],
+    "conEyebrow": "رابطہ",
+    "conTitle": "کلینک کہاں ہے",
+    "conLead": "جی بلاک، ویہاڑی — مین روڈ سے قریب۔ نقشے پر راستہ دیکھنے کے لیے نیچے بٹن دبائیں۔",
+    "conDirections": "راستہ دیکھیں",
+    "contact": {
+      "addr": "پتہ",
+      "phone": "فون",
+      "wa": "واٹس ایپ",
+      "hours": "اوقات"
+    },
+    "addressLine": "167/1، جی بلاک، ویہاڑی 61100، پنجاب، پاکستان",
+    "hoursShort": "پیر تا ہفتہ · صبح 9 تا 2، شام 5 تا 9",
+    "footerTag": "ویہاڑی اور گرد و نواح کے مریضوں کی خدمت میں",
+    "footLinks": "صفحات",
+    "footContact": "رابطہ",
+    "footHours": "او پی ڈی: پیر تا ہفتہ",
+    "footSurgery": "آپریشن کے دن: منگل اور جمعرات",
+    "copyright": "© 2026 اسماعیل آئی اینڈ جنرل کلینک، ویہاڑی۔ جملہ حقوق محفوظ ہیں۔",
+    "waGeneral": "السلام علیکم! میں ڈاکٹر یحییٰ صاحب سے آنکھوں کے معائنے کے لیے وقت لینا چاہتا/چاہتی ہوں۔ برائے مہربانی رہنمائی فرمائیں۔",
+    "waServicePre": "السلام علیکم! مجھے اس بارے میں معلومات چاہییں: ",
+    "waDoctorPre": "السلام علیکم! میں وقت لینا چاہتا/چاہتی ہوں — ڈاکٹر: ",
+    "waFormIntro": "السلام علیکم! اپائنٹمنٹ کی درخواست:",
+    "metaTitle": "ویہاڑی میں آنکھوں کا ڈاکٹر | اسماعیل آئی اینڈ جنرل کلینک — ڈاکٹر یحییٰ",
+    "metaDesc": "ویہاڑی میں آنکھوں کے ماہر ڈاکٹر یحییٰ اور ڈاکٹر عمر۔ موتیا کا آپریشن، کالا موتیا، ذیابیطس اور آنکھیں۔ واٹس ایپ پر اپائنٹمنٹ بک کریں۔"
+  },
+  "en": {
+    "skip": "Skip to main content",
+    "brandName": "Ismail Eye &amp; General Clinic",
+    "emergencyText": "Eye injury or sudden loss of vision? Call us now:",
+    "nav": {
+      "home": "Home",
+      "about": "About",
+      "doctors": "Doctors",
+      "services": "Services",
+      "gallery": "Results",
+      "schedule": "Timings",
+      "appointment": "Appointment",
+      "contact": "Contact"
+    },
+    "heroEyebrow": "Vehari · G Block",
+    "heroTitle": "Expert eye care, right here in Vehari",
+    "heroLead": "Complete eye examination, cataract surgery and general OPD under Dr. Yahya and Dr. Omar, with modern equipment.",
+    "ctaWhatsApp": "Book on WhatsApp",
+    "ctaBook": "Book an appointment",
+    "ctaCall": "Call the clinic",
+    "ctaAsk": "Ask on WhatsApp",
+    "ctaDetails": "Details",
+    "heroNote": "WhatsApp replies usually come during clinic hours",
+    "visionBefore": "With cataract",
+    "visionAfter": "After treatment",
+    "aboutEyebrow": "About the clinic",
+    "aboutTitle": "Built for the people of Vehari",
+    "aboutLead": "At Ismail Eye &amp; General Clinic we try to give every patient the attention we would want for our own family. Each eye is examined thoroughly so nothing is missed.",
+    "about": [
+      {
+        "t": "Care begins with a conversation",
+        "d": "Tell us about your symptoms and previous treatment. The consultation brings your history and eye examination together."
+      },
+      {
+        "t": "Eye care and general OPD",
+        "d": "Eye examinations, vision testing and general medical consultations at one clinic in G Block, Vehari."
+      },
+      {
+        "t": "Plan your visit with confidence",
+        "d": "Travelling from Burewala, Mailsi, Luddan or Karampur? Check clinic hours and confirm availability before leaving home."
+      }
+    ],
+    "docEyebrow": "Our team",
+    "docTitle": "Who will treat you",
+    "doctors": [
+      {
+        "n": "Dr. Yahya",
+        "b": "Dr. Yahya is an ophthalmologist with a special focus on modern phaco cataract surgery. His rule is simple: no decision without a complete examination of the eye.",
+        "tags": [
+          "Cataract surgery (Phaco)",
+          "Glaucoma",
+          "Retinal conditions"
+        ],
+        "d": "OPD: Monday to Saturday · Surgery: Tuesday & Thursday"
+      },
+      {
+        "n": "Dr. Omar",
+        "b": "Dr. Omar runs the general OPD and first-line eye examinations, and explains each condition to patients in plain language.",
+        "tags": [
+          "General OPD",
+          "Vision testing",
+          "Initial examination"
+        ],
+        "d": "OPD: Monday to Saturday"
+      }
+    ],
+    "servEyebrow": "Services",
+    "servTitle": "What we treat",
+    "servLead": "Message us on WhatsApp for details or cost of any service.",
+    "services": [
+      {
+        "t": "Cataract Surgery (Phaco)",
+        "s": "موتیا کا آپریشن",
+        "d": "Consultation for cataract surgery, including phaco. Your examination helps determine the appropriate treatment and lens options."
+      },
+      {
+        "t": "Complete Eye Examination",
+        "s": "آنکھوں کا مکمل معائنہ",
+        "d": "Vision, retina and eye pressure checked in a single sitting."
+      },
+      {
+        "t": "Refraction & Glasses",
+        "s": "نظر کا ٹیسٹ",
+        "d": "Accurate prescription and glasses advice for children and adults."
+      },
+      {
+        "t": "Diabetic Retinopathy Screening",
+        "s": "ذیابیطس اور آنکھیں",
+        "d": "Retinal assessment for people living with diabetes, with follow-up advice based on the examination."
+      },
+      {
+        "t": "Glaucoma Treatment",
+        "s": "کالا موتیا",
+        "d": "Eye pressure testing, glaucoma assessment and discussion of treatment and ongoing monitoring."
+      },
+      {
+        "t": "Pediatric Eye Care",
+        "s": "بچوں کی آنکھیں",
+        "d": "Squint, lazy eye and other childhood vision problems."
+      },
+      {
+        "t": "Pterygium Surgery",
+        "s": "ناخونہ",
+        "d": "Removal of pterygium caused by sun and dust, plus prevention advice."
+      },
+      {
+        "t": "Eye Injury & Emergency",
+        "s": "چوٹ اور ایمرجنسی",
+        "d": "Assessment of eye injuries during clinic hours. For sudden vision loss or a serious injury, seek emergency care immediately."
+      },
+      {
+        "t": "General OPD",
+        "s": "جنرل او پی ڈی",
+        "d": "General medical consultation is also available at the same clinic."
+      }
+    ],
+    "galEyebrow": "Results",
+    "galTitle": "Before and after treatment",
+    "galLead": "Drag the line left and right to see the difference.",
+    "galAll": "All",
+    "galDisclaimer": "Results may vary from patient to patient. Any treatment decision is made only after examination.",
+    "galEmpty": "Images for this category will be added soon.",
+    "galRecovery": "Recovery",
+    "galCats": {
+      "cataract": "Cataract",
+      "pterygium": "Pterygium",
+      "squint": "Squint"
+    },
+    "schEyebrow": "Timings",
+    "schTitle": "Please read this before you come",
+    "schLead": "So your trip is not wasted and you know what to expect.",
+    "hoursHead": [
+      "Day",
+      "OPD",
+      "Note"
+    ],
+    "hours": [
+      [
+        "Monday",
+        "9am–2pm · 5pm–9pm",
+        "General OPD"
+      ],
+      [
+        "Tuesday",
+        "9am–2pm",
+        "Surgery day"
+      ],
+      [
+        "Wednesday",
+        "9am–2pm · 5pm–9pm",
+        "General OPD"
+      ],
+      [
+        "Thursday",
+        "9am–2pm",
+        "Surgery day"
+      ],
+      [
+        "Friday",
+        "9am–12pm",
+        "Short hours for Jumma"
+      ],
+      [
+        "Saturday",
+        "9am–2pm · 5pm–9pm",
+        "General OPD"
+      ],
+      [
+        "Sunday",
+        "Closed",
+        "No routine OPD"
+      ]
+    ],
+    "queueNote": "Every patient receives a complete and thorough eye examination, so there can be a wait during busy hours. Tokens are issued in order of arrival. Come early in the morning for the shortest queue.",
+    "prepTitle": "Before your surgery",
+    "prep": [
+      "Confirm your surgery time by phone one day before.",
+      "Bring an adult attendant — do not drive yourself home after surgery.",
+      "Bring all previous reports, your diabetes and blood pressure medicines, and your glasses.",
+      "Tell your treating doctor about any new redness, discharge or change in symptoms before the planned procedure.",
+      "Do not wear makeup, surma or oil on your face.",
+      "Eat or fast as instructed by the doctor — ask the staff beforehand."
+    ],
+    "revEyebrow": "Patient feedback",
+    "revTitle": "What our patients say on Google",
+    "revCta": "Leave a review on Google",
+    "apptEyebrow": "Appointment",
+    "apptTitle": "Two easy ways to book",
+    "apptLead": "Choose whichever suits you. Either way, the clinic will call you to confirm your slot.",
+    "fastTitle": "Fastest way — WhatsApp",
+    "fastText": "Just send one message. No form to fill. Our staff will tell you the available times.",
+    "formTitle": "Appointment form",
+    "lblName": "Patient name",
+    "lblPhone": "Mobile number",
+    "lblAge": "Age",
+    "lblCity": "City / area",
+    "lblDoctor": "Which doctor",
+    "lblService": "What do you need",
+    "lblDate": "Preferred day",
+    "lblSlot": "Preferred time",
+    "lblProblem": "Describe the problem briefly",
+    "errName": "Please enter the patient's name",
+    "errPhone": "Enter a valid mobile number, e.g. 03001234567",
+    "optAny": "Any doctor",
+    "optSelect": "Select",
+    "slots": [
+      "Morning (9am–12pm)",
+      "Afternoon (12pm–2pm)",
+      "Evening (5pm–9pm)"
+    ],
+    "formSubmit": "Send request",
+    "formNote": "Note: this is a booking request, not a confirmed slot. The clinic will call you to confirm your appointment.",
+    "successTitle": "Your request has been received",
+    "successText": "The clinic will contact you shortly. WhatsApp is opening for confirmation — please send the message so your request is recorded.",
+    "successCta": "Send on WhatsApp",
+    "faqEyebrow": "Common questions",
+    "faqTitle": "What patients usually ask",
+    "faq": [
+      {
+        "q": "How do I request an appointment?",
+        "a": "Choose your doctor and preferred date in the appointment form. On the live website, you can send the request through WhatsApp. Your appointment is confirmed only when the clinic replies."
+      },
+      {
+        "q": "Can I visit without an appointment?",
+        "a": "Walk-in consultations are listed in our OPD schedule. Please confirm the doctor’s availability before travelling. Waiting times depend on the number of patients."
+      },
+      {
+        "q": "How much does cataract surgery cost?",
+        "a": "An estimate is provided after an eye examination and a discussion of the proposed procedure and lens options. Ask the clinic what the estimate includes."
+      },
+      {
+        "q": "What should I bring to my appointment?",
+        "a": "Bring your glasses, previous eye reports and a list of current medicines. For a planned procedure, follow the instructions provided by your treating doctor."
+      },
+      {
+        "q": "Do you see patients from outside Vehari?",
+        "a": "Patients from Burewala, Mailsi, Luddan, Karampur and nearby areas can plan a visit to our G Block clinic. Please confirm the schedule before travelling."
+      },
+      {
+        "q": "Where is Ismail Eye & General Clinic?",
+        "a": "The clinic address supplied is 167/1, G Block, Vehari 61100, Punjab, Pakistan. Use the directions link to search for the clinic on Google Maps."
+      }
+    ],
+    "conEyebrow": "Contact",
+    "conTitle": "Where to find us",
+    "conLead": "G Block, Vehari — close to the main road. Tap the button below for directions.",
+    "conDirections": "Get directions",
+    "contact": {
+      "addr": "Address",
+      "phone": "Phone",
+      "wa": "WhatsApp",
+      "hours": "Hours"
+    },
+    "addressLine": "167/1, G Block, Vehari 61100, Punjab, Pakistan",
+    "hoursShort": "Mon–Sat · 9am–2pm, 5pm–9pm",
+    "footerTag": "Serving patients from Vehari and the surrounding districts",
+    "footLinks": "Pages",
+    "footContact": "Contact",
+    "footHours": "OPD: Monday to Saturday",
+    "footSurgery": "Surgery days: Tuesday & Thursday",
+    "copyright": "© 2026 Ismail Eye &amp; General Clinic, Vehari. All rights reserved.",
+    "waGeneral": "Assalam o Alaikum! I would like to book an eye check-up appointment with Dr. Yahya. Please guide me.",
+    "waServicePre": "Assalam o Alaikum! I would like information about: ",
+    "waDoctorPre": "Assalam o Alaikum! I would like an appointment with: ",
+    "waFormIntro": "Assalam o Alaikum! Appointment request:",
+    "metaTitle": "Eye Specialist in Vehari | Ismail Eye & General Clinic — Dr. Yahya",
+    "metaDesc": "Dr. Yahya and Dr. Omar, eye specialists in Vehari. Cataract surgery, glaucoma, diabetic eye screening. Book your appointment on WhatsApp."
+  }
+}

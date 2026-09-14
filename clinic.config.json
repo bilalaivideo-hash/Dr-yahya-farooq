@@ -1,0 +1,11 @@
+{
+  "domain": "https://ismail-eye-clinic.example",
+  "demoPhone": "+92 300 1234567",
+  "demoQualifications": ["MBBS, FCPS (Ophthalmology)", "MBBS"],
+  "demoRegistration": "DEMO-PMDC",
+  "phone": "",
+  "whatsapp": "",
+  "publishReady": false,
+  "detailsConfirmed": false,
+  "doctors": [{"qualifications": "", "registration": ""}, {"qualifications": "", "registration": ""}]
+}
