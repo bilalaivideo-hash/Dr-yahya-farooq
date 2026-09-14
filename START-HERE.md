@@ -49,3 +49,7 @@ Live mode prepares a WhatsApp message and asks the visitor to continue. The site
 The supplied README explicitly identified phone numbers, experience/patient/surgery totals and credentials as placeholders. Those figures are not published as facts. Its illustrated before/after cases and consent statements were not real patient evidence; they have been omitted. Review quotes and aggregate rating were also omitted pending verification. Add genuine photos, consented cases or independently verified reviews later, with appropriate attribution and clinician-approved wording. Do not add self-serving review stars to LocalBusiness schema.
 
 Off-page SEO accounts, Google Business Profile changes, review requests and directory submissions have **not** been performed. The separate guide contains the practical work to do after the real clinic details and account access are available.
+
+## Supplied logo update
+The user-supplied Ismail Eye Clinic PNG is now used unchanged in both language pages, in the header and footer. The favicon uses an SVG viewport to isolate the eye/medical symbol from that same PNG. Rebuilding preserves these assets.
+

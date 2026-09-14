@@ -28,3 +28,7 @@ Checked on 14 September 2026 in the local in-app browser.
 - Clinical copy remains subject to review by the clinic before launch. General preparation/emergency language was checked against NHS guidance: [cataract surgery and transport home](https://www.nhs.uk/tests-and-treatments/cataract-surgery/) and [urgent eye symptoms](https://www.nhs.uk/symptoms/eye-pain/). These sources do not establish the clinic’s qualifications or services.
 
 Public deployment instructions and SEO follow-up actions are in START-HERE.md and SEO-LAUNCH-GUIDE.md.
+
+## Logo update verification
+The supplied 1572 × 620 logo loads in the header and footer. English and Urdu checked at 320-pixel width: document width equals client width, with no horizontal overflow. Favicon now references the supplied logo symbol.
+

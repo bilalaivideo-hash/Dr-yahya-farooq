@@ -9,3 +9,6 @@ html[lang=ur]{--font:'Noto Naskh Arabic',serif}html[lang=ur] h1,html[lang=ur] h2
 @media(max-width:400px){.header-inner{gap:6px;flex-wrap:wrap;padding-block:10px}.header-inner .brand strong{font-size:.92rem}.header-inner .brand small{font-size:.45rem}.header-inner .brand{gap:6px}.header-inner .lang{gap:0}.header-inner .lang a{padding-inline:5px}html[lang=ur] .header-inner .brand strong{font-size:.95rem}html[lang=ur] .header-inner .brand small{font-size:.6rem}}
 .doctor>div,.booking-panel,.form-grid>div{min-width:0}.doctor .micro{flex-wrap:wrap}.doctor .ltr{overflow-wrap:anywhere}.privacy{overflow-wrap:anywhere}
 @media(max-width:400px){.doctor{grid-template-columns:minmax(0,1fr)}.monogram{width:70px}.hours td:nth-child(2){white-space:normal}.footer-links{gap:15px;flex-wrap:wrap}.contact-card .address{overflow-wrap:anywhere}}
+
+/* Supplied clinic logo, kept in its original proportions in both languages. */
+.brand .brand-logo{display:block;width:216px;height:auto;max-width:100%;object-fit:contain}.brand{min-width:0}footer .brand .brand-logo{width:240px}@media(max-width:760px){.header-inner .brand .brand-logo{width:175px}}@media(max-width:400px){.header-inner .brand .brand-logo{width:145px}}
