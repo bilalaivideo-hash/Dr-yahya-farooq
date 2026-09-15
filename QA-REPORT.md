@@ -32,3 +32,11 @@ Public deployment instructions and SEO follow-up actions are in START-HERE.md an
 ## Logo update verification
 The supplied 1572 × 620 logo loads in the header and footer. English and Urdu checked at 320-pixel width: document width equals client width, with no horizontal overflow. Favicon now references the supplied logo symbol.
 
+
+## Brand palette update — 15 September 2026
+Applied logo-matched navy (#174773), cyan (#00afe3), and green (#1baa5b) throughout the website. White and pale-blue surfaces replace the cream/olive palette. Text uses darker cyan and green variants for readability. Updated the eye illustration, cards, form surfaces, buttons, footer and theme metadata. English preview visually inspected at narrow and desktop widths; Urdu RTL checked with no horizontal overflow. Static asset, link and metadata verification passed.
+
+
+## Appointment-first update
+
+Verified English and Urdu demo requests with only name and mobile number. Verified blank-form localized errors, Sunday rejection, a blank optional date, and Urdu numerals in a mobile number. The Urdu mobile layout at 390px has matching client/document widths (375px after scrollbar). Optional details start collapsed; only name and phone are required. The homepage now begins with the booking form. Live WhatsApp transmission was not performed; actual sending still requires the visitor's Send action in WhatsApp and clinic confirmation.

@@ -219,7 +219,7 @@
     "faq": [
       {
         "q": "اپائنٹمنٹ کی درخواست کیسے دوں؟",
-        "a": "فارم میں ڈاکٹر اور اپنی پسند کی تاریخ منتخب کریں۔ فعال ویب سائٹ پر آپ واٹس ایپ کے ذریعے درخواست بھیج سکیں گے۔ کلینک کے جواب کے بعد ہی وقت کی تصدیق ہوتی ہے۔"
+        "a": "اپنا نام اور موبائل نمبر لکھیں۔ دن، ڈاکٹر اور باقی تفصیلات خالی چھوڑ سکتے ہیں۔ واٹس ایپ پر جا کر پیغام بھیجیں۔ کلینک کے جواب کے بعد ہی وقت کی تصدیق ہوتی ہے۔"
       },
       {
         "q": "کیا بغیر اپائنٹمنٹ آ سکتے ہیں؟",
@@ -487,7 +487,7 @@
     "faq": [
       {
         "q": "How do I request an appointment?",
-        "a": "Choose your doctor and preferred date in the appointment form. On the live website, you can send the request through WhatsApp. Your appointment is confirmed only when the clinic replies."
+        "a": "Enter your name and mobile number. You can leave the day, doctor and other details blank. Continue to WhatsApp and send your message. Your appointment is confirmed only when the clinic replies."
       },
       {
         "q": "Can I visit without an appointment?",

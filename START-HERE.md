@@ -4,7 +4,7 @@ English: open `index.html`. Urdu: open `ur.html`. Keep the `assets` folder along
 
 ## Aap ke liye
 
-Professional cream/deep-green design, English/Urdu toggle, proper RTL layout, readable fonts, 9 existing services, both doctors, clinic schedule, preparation notes, FAQ, appointment form, directions and original social links shamil hain. Doctor images available nahi theen, is liye initials aur eye illustration use ki gayi hai; kisi stock photo ko doctor ki asli photo nahi dikhaya gaya.
+Professional logo-matched navy/cyan/green design, English/Urdu toggle, proper RTL layout, readable fonts, 9 existing services, both doctors, clinic schedule, preparation notes, FAQ, appointment form, directions and original social links shamil hain. Doctor images available nahi theen, is liye initials aur eye illustration use ki gayi hai; kisi stock photo ko doctor ki asli photo nahi dikhaya gaya.
 
 Aap ke kehne par demo phone aur demo qualifications add hain. Demo domain `ismail-eye-clinic.example` reserved example address hai; yeh purchased/live domain nahi. Form ka demo aap ki request screen par dikhata hai. Na booking hoti hai, na koi message send hota hai.
 
@@ -53,3 +53,7 @@ Off-page SEO accounts, Google Business Profile changes, review requests and dire
 ## Supplied logo update
 The user-supplied Ismail Eye Clinic PNG is now used unchanged in both language pages, in the header and footer. The favicon uses an SVG viewport to isolate the eye/medical symbol from that same PNG. Rebuilding preserves these assets.
 
+
+## Easier online appointments — latest update
+
+The homepage now starts with the appointment form. Only the patient name and mobile number are required. Preferred date is optional; doctor, service, time, age, city and notes are inside an optional details section. Leaving date/time blank asks the clinic to suggest them. In live mode the main button opens WhatsApp with the prepared request; the visitor still needs to send it in WhatsApp, and the clinic must confirm the appointment. A retry link remains on the page. Demo mode sends nothing. Urdu/Persian and Arabic digits in mobile numbers are accepted and normalized. Inline errors use the selected website language. The mobile booking shortcut hides while the form is visible. The previous decorative hero was replaced with simple booking instructions; all nine services, doctor details and clinic information remain below.
