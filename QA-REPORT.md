@@ -40,3 +40,7 @@ Applied logo-matched navy (#174773), cyan (#00afe3), and green (#1baa5b) through
 ## Appointment-first update
 
 Verified English and Urdu demo requests with only name and mobile number. Verified blank-form localized errors, Sunday rejection, a blank optional date, and Urdu numerals in a mobile number. The Urdu mobile layout at 390px has matching client/document widths (375px after scrollbar). Optional details start collapsed; only name and phone are required. The homepage now begins with the booking form. Live WhatsApp transmission was not performed; actual sending still requires the visitor's Send action in WhatsApp and clinic confirmation.
+
+## Reduced visual clutter
+Removed the Personal attention/About section from English and Urdu output. Simplified card treatments, numbering and spacing. Three service cards are shown initially; the remaining six are available in a native expandable section. Browser verification confirmed section removal and working expand/collapse. All nine services and appointment links remain in the generated HTML. Static validation passed.
+
